@@ -1,6 +1,6 @@
 ### Hi, I'm Evgeny Gurin
 
-![Stats](https://github-readme-stats.vercel.app/api?username=GulDilin&show_icons=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=GulDilin&show_icons=true&count_private=true&theme=codeSTACKr)
 
 ### Contacts
 [<img align="left" alt="VK | GulDilin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
