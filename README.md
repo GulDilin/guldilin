@@ -8,7 +8,6 @@
 
 
 [vk]: https://vk.com/guldilin
-[instagram]: https://instagram.com/guldilin
 
 
 <br/>
