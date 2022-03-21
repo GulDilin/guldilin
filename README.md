@@ -4,8 +4,6 @@
 
 ### Contacts
 [<img align="left" alt="VK | GulDilin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
-[<img align="left" alt="Instagram | GulDilin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 
 [vk]: https://vk.com/guldilin
 
