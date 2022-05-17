@@ -13,19 +13,21 @@
 
 ### Languages
 
-<img align="left" alt="VueJs" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" />
-<img align="left" alt="babel" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" />
-<img align="left" alt="javascript" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="HTML5" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" />
+<img align="left" alt="VueJs" height="50px" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" />
+<img align="left" alt="babel" height="50px" src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" />
+<img align="left" alt="javascript" height="50px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="HTML5" height="50px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" />
 
-<img align="left" alt="Java" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
-<img align="left" alt="Maven" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" />
-<img align="left" alt="Spring Boot" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
+<img align="left" alt="Java" height="50px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
+<img align="left" alt="Maven" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" />
+<img align="left" alt="Spring Boot" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
 
-<img align="left" alt="Python" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" />
-<img align="left" alt="sqlalchemy" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" />
-<img align="left" alt="Flask" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" />
-<img align="left" alt="Django" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" />
+<img align="left" alt="Python" height="50px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" />
+<img align="left" alt="FastAPI" height="50px" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain-wordmark.svg" />
+
+<img align="left" alt="sqlalchemy" height="50px" src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" />
+<img align="left" alt="Flask" height="50px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" />
+<img align="left" alt="Django" height="50px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" />
 
 <br/>
 <br/>
