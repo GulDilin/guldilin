@@ -6,7 +6,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=GulDilin&show_icons=true&count_private=true&theme=codeSTACKr)
 
 ### Contacts
-[<img alt="VK | GulDilin" width="50px" src="./vk.png" />][vk]
+[<img alt="VK | GulDilin" width="50px" src="./img/vk.png" />][vk]
 
 [vk]: https://vk.com/guldilin
 
