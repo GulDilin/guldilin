@@ -6,7 +6,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=GulDilin&show_icons=true&count_private=true&theme=codeSTACKr)
 
 ### Contacts
-[<img align="left" alt="VK | GulDilin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+[<img alt="VK | GulDilin" width="50px" src="./vk.png" />][vk]
 
 [vk]: https://vk.com/guldilin
 
@@ -54,5 +54,6 @@
 
 ### Support
 If some of my repositories was useful, you can support me:
+
 <img alt="Sber" width="200px" src="./img/money-card.png" />
 
