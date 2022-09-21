@@ -56,7 +56,7 @@
 <hr>
 
 ### Support
-If some of my repositories was useful, you can support me:
+If some of my repositories were useful, you can support me:
 
 <img alt="Sber" width="200px" src="./img/money-card.png" />
 
