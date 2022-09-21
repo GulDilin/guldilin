@@ -6,7 +6,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=GulDilin&show_icons=true&count_private=true&theme=codeSTACKr)
 
 ## Education at ITMO University
-[![ITMO University Labs](https://github-readme-stats.vercel.app/api/pin/?username=GulDilin&repo=itmo&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+[![ITMO University Labs](https://github-readme-stats.vercel.app/api/pin/?username=GulDilin&repo=itmo&theme=codeSTACKr)](https://github.com/GulDilin/itmo)
 
 ### Contacts
 [<img alt="VK | GulDilin" width="50px" src="./img/vk.png" />][vk]
