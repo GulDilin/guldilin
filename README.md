@@ -3,7 +3,7 @@
 ## Work position: Fullstack Developer at AMD ProRender Team (`Vue.js` and `Python`)
 
 
-![Stats](https://readme-stats.jonas-bernard.dev/api?username=GulDilin&show_icons=true&count_private=true&theme=codeSTACKr&include_all_commits=true)
+[![Stats](https://readme-stats.jonas-bernard.dev/api?username=GulDilin&show_icons=true&count_private=true&theme=codeSTACKr&include_all_commits=true)](https://github.com/GulDilin)
 
 ## Education at ITMO University
 [![ITMO University Labs](https://readme-stats.jonas-bernard.dev/api/pin/?username=GulDilin&repo=itmo&theme=codeSTACKr)](https://github.com/GulDilin/itmo)
