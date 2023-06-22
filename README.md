@@ -5,10 +5,10 @@
 - One of lead developers of AMD GPUOpen MaterialX Library (https://matlib.gpuopen.com)
 
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=GulDilin&show_icons=true&count_private=true&theme=codeSTACKr&include_all_commits=true)](https://github.com/GulDilin)
+[![Stats](https://github-readme-stats-guldilin.vercel.app/api?username=Guldilin&show_icons=true&theme=codeSTACKr&count_private=true)
 
 ## Education at ITMO University
-[![ITMO University Labs](https://readme-stats.jonas-bernard.dev/api/pin/?username=GulDilin&repo=itmo&theme=codeSTACKr)](https://github.com/GulDilin/itmo)
+[![ITMO University Labs](https://github-readme-stats-guldilin.vercel.app/api/pin/?username=GulDilin&repo=itmo&theme=codeSTACKr)](https://github.com/GulDilin/itmo)
 
 ### Contacts
 [<img alt="VK | GulDilin" width="50px" src="./img/vk.png" />][vk]
