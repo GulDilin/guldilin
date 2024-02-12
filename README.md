@@ -1,8 +1,9 @@
 # Hi, I'm Evgeny Gurin
 ## Education: ITMO University software engineering bachelor
-## Work position: Fullstack Developer at AMD ProRender Team (`Vue.js` and `Python`)
+## Work position: Fullstack Developer at AMD ProRender Team (`Vue.js` and `Python FastApi`)
 - Lead developer of ML Luxoft site (https://ml.luxoft.com/)
 - One of lead developers of AMD GPUOpen MaterialX Library (https://matlib.gpuopen.com)
+- Part of AMD RenderStudio Team (https://gpuopen.com/learn/introducing-amd-renderstudio/)
 
 
 [![Stats](https://github-readme-stats-guldilin.vercel.app/api?username=Guldilin&show_icons=true&theme=codeSTACKr&count_private=true)
