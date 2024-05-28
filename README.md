@@ -13,9 +13,12 @@
 
 ### Contacts
 [<img alt="VK | GulDilin" width="50px" src="./img/vk.png" />][vk]
+[<img alt="Telegram | Evgeny Gurin" width="50px" src="./img/telegram.png" />][telegram]
+[<img alt="Email | Evgeny Gurin" width="50px" src="./img/email.png" />][email]
 
 [vk]: https://vk.com/guldilin
-
+[telegram]: https://t.me/evgeny_gurin
+[email]: mailto:zhenyagurin@gmail.com
 
 <br/>
 <hr>
