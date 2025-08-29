@@ -1,5 +1,5 @@
 # Hi, I'm Evgeny Gurin
-## Education: ITMO University software engineering bachelor
+## Education: ITMO University PhD student
 ## Work position: Senior Fullstack Developer at [Softellion](https://www.softellion.com/) (`Vue.js` and `Python FastApi`)
 - Lead developer of ML Luxoft site (https://ml.luxoft.com/)
 - One of lead developers of AMD GPUOpen MaterialX Library (https://matlib.gpuopen.com)
