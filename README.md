@@ -59,10 +59,3 @@
 <img align="left" alt="Windows" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" />
 <img align="middle" alt="Linux" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
 
-<hr>
-
-### Support
-If some of my repositories were useful, you can support me:
-
-<img alt="Sber" width="200px" src="./img/money-card.png" />
-
