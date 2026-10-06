@@ -6,7 +6,7 @@
 - Part of AMD RenderStudio Team (https://gpuopen.com/learn/introducing-amd-renderstudio/)
 
 
-![Stats](https://github-readme-stats-2w88.vercel.app/api?username=Guldilin&theme=codeSTACKr&show_icons=true&show=reviews,prs_merged,prs_merged_percentage)
+![Stats](https://github-stats-extended-backend-lemon.vercel.app/api?username=guldilin&show_icons=true&include_all_commits=true&theme=tokyonight)
 
 ## Education at ITMO University
 [![ITMO University Labs](https://github-readme-stats-2w88.vercel.app/api/pin/?username=GulDilin&repo=itmo&theme=codeSTACKr)](https://github.com/GulDilin/itmo)
