@@ -1,15 +1,15 @@
 # Hi, I'm Evgeny Gurin
-## Education: ITMO University PhD student
-## Work position: Senior Fullstack Developer at [Softellion](https://www.softellion.com/) (`Vue.js` and `Python FastApi`)
-- Lead developer of ML Luxoft site (https://ml.luxoft.com/)
-- One of lead developers of AMD GPUOpen MaterialX Library (https://matlib.gpuopen.com)
-- Part of AMD RenderStudio Team (https://gpuopen.com/learn/introducing-amd-renderstudio/)
 
+AI Engineer / Senior Fullstack Developer · 7+ years · PhD student in Computer Science at ITMO University
 
-![Stats](https://github-stats-extended-backend-lemon.vercel.app/api?username=guldilin&show_icons=true&include_all_commits=true&theme=tokyonight)
+`Python` `FastAPI` `Vue.js` `LangGraph` `RAG` `Qdrant` `Kubernetes` `AWS`
 
-## Education at ITMO University
-[![ITMO University Labs](https://github-readme-stats-2w88.vercel.app/api/pin/?username=GulDilin&repo=itmo&theme=codeSTACKr)](https://github.com/GulDilin/itmo)
+- Architect of an AI content-generation platform — multi-agent pipeline on LangGraph (ReAct, tool calling), RAG on Qdrant, multitenant white-label SaaS
+- Lead developer of [ML Luxoft](https://ml.luxoft.com/) — public ML demos with NVIDIA Triton inference under unpredictable load
+- One of lead developers of the [AMD GPUOpen MaterialX Library](https://matlib.gpuopen.com) · part of the AMD RenderStudio team
+- Lead developer at the [ITMO COSM cloud lab](https://cosm-lab.science/) — cloud-agnostic resource management in a 170+ team · author of ITMO's DevOps course
+
+![Stats](https://github-readme-stats.vercel.app/api?username=guldilin&show_icons=true&include_all_commits=true&theme=tokyonight)
 
 ### Contacts
 [<img alt="VK | GulDilin" width="50px" src="./img/vk.png" />][vk]
