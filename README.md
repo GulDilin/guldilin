@@ -21,7 +21,7 @@ AI Engineer / Senior Fullstack Developer · 7+ years · PhD student in Computer 
   </tr>
 </table>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=guldilin&show_icons=true&include_all_commits=true&theme=tokyonight)
+![Stats](https://github-stats-extended-backend-lemon.vercel.app/api?username=guldilin&show_icons=true&include_all_commits=true&theme=tokyonight)
 
 ### Contacts
 [<img alt="VK | GulDilin" width="50px" src="./img/vk.png" />][vk]
