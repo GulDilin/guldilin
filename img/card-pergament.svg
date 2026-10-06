@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="115" viewBox="0 0 470 115" role="img">
+  <title>Pergament AI — multi-agent content platform</title>
+  <defs>
+    <radialGradient id="g-perg" cx="14%" cy="18%" r="90%">
+      <stop offset="0%" stop-color="#e0af68" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#e0af68" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="470" height="115" rx="10" fill="#1a1b27"/>
+  <rect width="470" height="115" rx="10" fill="url(#g-perg)"/>
+  <rect x="0.5" y="0.5" width="469" height="114" rx="9.5" fill="none" stroke="#292e42"/>
+  <rect x="0" y="16" width="3" height="83" rx="1.5" fill="#e0af68"/>
+  <rect x="24" y="35.5" width="44" height="44" rx="10" fill="#e0af68" fill-opacity="0.1"/>
+  <rect x="24.5" y="36" width="43" height="43" rx="9.5" fill="none" stroke="#e0af68" stroke-opacity="0.35"/>
+  <g transform="translate(34,45.5)" fill="none" stroke="#e0af68" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/>
+  </g>
+  <text x="88" y="33" font-family="ui-monospace,'Cascadia Code','SF Mono',Menlo,Consolas,monospace" font-size="9" letter-spacing="1.8" fill="#e0af68" fill-opacity="0.9">ARCHITECT</text>
+  <text x="88" y="57" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" font-weight="600" fill="#c0caf5">Pergament AI</text>
+  <text x="88" y="78" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#9aa5ce">AI content marketing platform, multi-agent pipeline</text>
+  <text x="88" y="99" font-family="ui-monospace,'Cascadia Code','SF Mono',Menlo,Consolas,monospace" font-size="11.5" fill="#e0af68">LangGraph &#183; ReAct &#183; RAG &#183; Qdrant</text>
+</svg>

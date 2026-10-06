@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="115" viewBox="0 0 470 115" role="img">
+  <title>AMD RenderStudio — gpuopen.com/learn</title>
+  <defs>
+    <radialGradient id="g-rs" cx="14%" cy="18%" r="90%">
+      <stop offset="0%" stop-color="#bb9af7" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#bb9af7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="470" height="115" rx="10" fill="#1a1b27"/>
+  <rect width="470" height="115" rx="10" fill="url(#g-rs)"/>
+  <rect x="0.5" y="0.5" width="469" height="114" rx="9.5" fill="none" stroke="#292e42"/>
+  <rect x="0" y="16" width="3" height="83" rx="1.5" fill="#bb9af7"/>
+  <rect x="24" y="35.5" width="44" height="44" rx="10" fill="#bb9af7" fill-opacity="0.1"/>
+  <rect x="24.5" y="36" width="43" height="43" rx="9.5" fill="none" stroke="#bb9af7" stroke-opacity="0.35"/>
+  <g transform="translate(34,45.5)" fill="none" stroke="#bb9af7" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/>
+    <polyline points="3.27 6.96 12 12.01 20.73 6.96"/>
+    <line x1="12" y1="22.08" x2="12" y2="12"/>
+  </g>
+  <text x="88" y="33" font-family="ui-monospace,'Cascadia Code','SF Mono',Menlo,Consolas,monospace" font-size="9" letter-spacing="1.8" fill="#bb9af7" fill-opacity="0.9">CORE TEAM</text>
+  <text x="88" y="57" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" font-weight="600" fill="#c0caf5">AMD RenderStudio</text>
+  <text x="88" y="78" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#9aa5ce">Cloud multi-user 3D rendering and scene editing</text>
+  <text x="88" y="99" font-family="ui-monospace,'Cascadia Code','SF Mono',Menlo,Consolas,monospace" font-size="11.5" fill="#bb9af7">gpuopen.com/learn &#8599;</text>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="115" viewBox="0 0 470 115" role="img">
+  <title>ML Luxoft — ml.luxoft.com</title>
+  <defs>
+    <radialGradient id="g-ml" cx="14%" cy="18%" r="90%">
+      <stop offset="0%" stop-color="#7dcfff" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#7dcfff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="470" height="115" rx="10" fill="#1a1b27"/>
+  <rect width="470" height="115" rx="10" fill="url(#g-ml)"/>
+  <rect x="0.5" y="0.5" width="469" height="114" rx="9.5" fill="none" stroke="#292e42"/>
+  <rect x="0" y="16" width="3" height="83" rx="1.5" fill="#7dcfff"/>
+  <rect x="24" y="35.5" width="44" height="44" rx="10" fill="#7dcfff" fill-opacity="0.1"/>
+  <rect x="24.5" y="36" width="43" height="43" rx="9.5" fill="none" stroke="#7dcfff" stroke-opacity="0.35"/>
+  <g transform="translate(34,45.5)" fill="none" stroke="#7dcfff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="18" cy="5" r="3"/>
+    <circle cx="6" cy="12" r="3"/>
+    <circle cx="18" cy="19" r="3"/>
+    <line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/>
+    <line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/>
+  </g>
+  <text x="88" y="33" font-family="ui-monospace,'Cascadia Code','SF Mono',Menlo,Consolas,monospace" font-size="9" letter-spacing="1.8" fill="#7dcfff" fill-opacity="0.9">LEAD DEVELOPER</text>
+  <text x="88" y="57" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" font-weight="600" fill="#c0caf5">ML Luxoft</text>
+  <text x="88" y="78" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#9aa5ce">ML demos with live NVIDIA Triton inference</text>
+  <text x="88" y="99" font-family="ui-monospace,'Cascadia Code','SF Mono',Menlo,Consolas,monospace" font-size="11.5" fill="#7dcfff">ml.luxoft.com &#8599;</text>
+</svg>

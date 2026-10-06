@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="115" viewBox="0 0 470 115" role="img">
+  <title>Softellion — softellion.com</title>
+  <defs>
+    <radialGradient id="g-soft" cx="14%" cy="18%" r="90%">
+      <stop offset="0%" stop-color="#7aa2f7" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#7aa2f7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="470" height="115" rx="10" fill="#1a1b27"/>
+  <rect width="470" height="115" rx="10" fill="url(#g-soft)"/>
+  <rect x="0.5" y="0.5" width="469" height="114" rx="9.5" fill="none" stroke="#292e42"/>
+  <rect x="0" y="16" width="3" height="83" rx="1.5" fill="#7aa2f7"/>
+  <rect x="24" y="35.5" width="44" height="44" rx="10" fill="#7aa2f7" fill-opacity="0.1"/>
+  <rect x="24.5" y="36" width="43" height="43" rx="9.5" fill="none" stroke="#7aa2f7" stroke-opacity="0.35"/>
+  <g transform="translate(34,45.5)" fill="none" stroke="#7aa2f7" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="2" y="2" width="20" height="8" rx="2"/>
+    <rect x="2" y="14" width="20" height="8" rx="2"/>
+    <line x1="6" y1="6" x2="6.01" y2="6"/>
+    <line x1="6" y1="18" x2="6.01" y2="18"/>
+  </g>
+  <text x="88" y="33" font-family="ui-monospace,'Cascadia Code','SF Mono',Menlo,Consolas,monospace" font-size="9" letter-spacing="1.8" fill="#7aa2f7" fill-opacity="0.9">SENIOR FULLSTACK DEV</text>
+  <text x="88" y="57" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" font-weight="600" fill="#c0caf5">Softellion</text>
+  <text x="88" y="78" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#9aa5ce">Corporate site, infrastructure and AI knowledge base</text>
+  <text x="88" y="99" font-family="ui-monospace,'Cascadia Code','SF Mono',Menlo,Consolas,monospace" font-size="11.5" fill="#7aa2f7">softellion.com &#8599;</text>
+</svg>
